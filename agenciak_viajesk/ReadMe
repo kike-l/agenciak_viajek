@@ -1,0 +1,17 @@
+PythonAC1 - Projecte Agència de Viatges
+Vamos a crear un programa para una agencia de viajes que permita gestionar destinos, clientes y reservas. Este programa tendrá como mínimo las siguientes funcionalidades:
+Añadir un nuevo destino (Código destino, Nombre destino y Precio destino).
+Añadir un nuevo cliente (ID cliente y Nombre cliente.
+Realizar una reserva (Pasaremos un código de destino y un ID de cliente).
+Cancelar una reserva (Pasaremos un código de destino y un ID de cliente).
+Mostrar todos los destinos (Mostraremos código, nombre y precio).
+Mostrar todos los clientes (Mostraremos ID y nombre).
+Mostrar todas las reservas (Mostraremos Cliente y Reserva).
+Nuestro programa tiene que cumplir:
+Los parámetros entre paréntesis son orientativos y pueden ayudar a la funcionalidad del programa, podemos decidir otros.
+Las entradas y salidas de datos tienen que ser amigables con el usuario. O sea, darle un formato adecuado.
+Debemos controlar que las entradas de datos cumplan ciertos parámetros y crear las excepciones necesarias.
+Como mínimo deberíamos de tener dos módulos.
+Todas las funciones tienen que tener su correspondiente documentación (docstring), con su funcionamiento, parámetros de entrada y parámetros de salida.
+Uso de Git y GitHub para el control de versiones. Debéis añadirme como colaborador al repositorio de GitHub, donde también se realizará la entrega.
+Formato de entrega: Enlace al repositorio de GitHub (1 por grupo).
